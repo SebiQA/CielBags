@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+		<theme>standard</theme>
+		<encoding>UTF-8</encoding>
+		<protocol>https</protocol>
+		<documentTitle>Report Demonstration with NUnit and Extent Reports</documentTitle>
+		<reportName>Report Demonstration with NUnit and Extent Reports</reportName>
+		<reportHeadline>Report Demonstration with NUnit and Extent Reports</reportHeadline>
+		<dateFormat>yyyy-MM-dd</dateFormat>
+		<timeFormat>HH:mm:ss</timeFormat>
+		<scripts>
+			<![CDATA[$(document).ready(function() { });]]>
+		</scripts>
+		<styles>
+			<![CDATA[ ]]>
+		</styles>
+	</configuration>
+</extentreports>
